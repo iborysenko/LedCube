@@ -37,6 +37,9 @@ This is my Hobby Project (LED CUBE 20x20x20 public repository)
 
 ### About Cathode Shift registers PCB cascade
 
+![3D View](https://github.com/iborysenko/LedCube/blob/main/LED_cube%20cathode%20cascade%203D%20view.png?raw=true)
+![Schematic](https://github.com/iborysenko/LedCube/blob/main/LED_cude%20cathode_cascade.png?raw=true)
+
 This is led cube cathode shift registers cascade schematic
 
 We need 10pts connected successively to shift the I2C signal from the microcontroller.
