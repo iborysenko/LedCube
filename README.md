@@ -16,7 +16,7 @@ This is my Hobby Project (LED CUBE 20x20x20 public repository)
 - [ ] 3/20 Installing 20x20 sides to stand
 - [ ] Connect anode  cascade and tests it (delivery )
 - [ ] Connect cathode  cascade and tests it (delivery )
-- [ ] Create or adopt LCD font for 20x20 dimension  (Glyph fonts required) write Python script to convert  ASCII fonts  to binary matrix format
+- [X] Create or adopt LCD font for 20x20 dimension  (Glyph fonts required) write Python script to convert  ASCII fonts  to binary matrix format
 - [ ] Write test snowfall program 
 - [ ] Animations
 - [ ] Add WiFi module and write mobile App for device control
